@@ -3,4 +3,5 @@ Short coding challenge. Create a 7x7 grid of squares that follow a color sequenc
 
 
 See it in action!
-!(https://i.imgur.com/QgV5Tn9.gif)
+
+![Alt Text](https://i.imgur.com/QgV5Tn9.gif)
